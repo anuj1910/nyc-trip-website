@@ -42,3 +42,4 @@ Open index.html in your browser.
 🙌 Acknowledgment
 
 This project was created to capture and share my personal travel experience in NYC during Christmas 2025.
+# nyc-trip-website
