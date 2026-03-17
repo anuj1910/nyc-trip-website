@@ -1,45 +1,47 @@
-📍 NYC Christmas 2025 – Travel Website
+# 📍 NYC Christmas 2025 – Travel Website
 
 A visually appealing personal travel website showcasing my unforgettable trip to New York City during Christmas 2025. This project highlights key experiences, memories, and moments through a clean and responsive design.
 
-🌐 Live Preview
-![Preview](image.png)
+---
 
-📸 Project Preview
+## 🌐 Live Preview
+*https://people.rit.edu/aua6849/240/projects/Project%201/index.html*
 
-Make sure to place your image inside an assets folder and rename it to nyc-preview.png (or update the path accordingly).
+---
 
-✨ Features
+## 📸 Project Preview
 
-🎄 Beautiful Christmas-themed UI
-🗽 NYC travel storytelling layout
-🖼️ Image gallery with highlights
-📱 Responsive design (works on mobile & desktop)
-🎨 Clean and modern styling
-
-🛠️ Technologies Used
-HTML5
-CSS3
-
-📂 Project Structure
-NYC-Trip-Website/
-│
-├── index.html
-├── style.css
-├── assets/
-│   └── nyc-preview.png
-└── README.md
-
-🚀 How to Run Locally
-
-Clone the repository:
-git clone https://github.com/your-username/nyc-trip-website.git
-Navigate into the folder:
-cd nyc-trip-website
-Open index.html in your browser.
+<img width="1470" height="811" alt="Screenshot 2026-03-16 at 11 49 19 PM" src="https://github.com/user-attachments/assets/c2307363-a28e-4832-a5ff-ebfa45cb5e27" />
 
 
-🙌 Acknowledgment
+---
 
-This project was created to capture and share my personal travel experience in NYC during Christmas 2025.
-# nyc-trip-website
+## ✨ Features
+
+- 🎄 Beautiful Christmas-themed UI  
+- 🗽 NYC travel storytelling layout  
+- 🖼️ Image gallery with highlights  
+- 📱 Responsive design (mobile & desktop)  
+- 🎨 Clean and modern styling  
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (optional)  
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/anuj1910/nyc-trip-website.git
+
+2. Navigate into the folder:
+	```bash
+	cd nyc-trip-website
+ 
+3. Open index.html in your browser.
